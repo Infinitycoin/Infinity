@@ -1,9 +1,9 @@
-Building FooCoin
+Building InfintiyCoin
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building infinitycoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of InfintiyCoin.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building infinitycoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of InfintiyCoin.
